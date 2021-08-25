@@ -1,0 +1,5 @@
+C:\Users\estre\source\repos\Calculadora\Calculadora\bin\Release\netcoreapp3.1\publish\Calculadora.exe
+C:\Users\estre\source\repos\Calculadora\Calculadora\bin\Release\netcoreapp3.1\publish\Calculadora.dll
+C:\Users\estre\source\repos\Calculadora\Calculadora\bin\Release\netcoreapp3.1\publish\Calculadora.deps.json
+C:\Users\estre\source\repos\Calculadora\Calculadora\bin\Release\netcoreapp3.1\publish\Calculadora.runtimeconfig.json
+C:\Users\estre\source\repos\Calculadora\Calculadora\bin\Release\netcoreapp3.1\publish\Calculadora.pdb

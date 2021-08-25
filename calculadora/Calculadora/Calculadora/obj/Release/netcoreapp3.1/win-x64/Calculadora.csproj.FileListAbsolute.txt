@@ -1,0 +1,15 @@
+C:\Users\estre\source\repos\Calculadora\Calculadora\bin\Release\netcoreapp3.1\win-x64\Calculadora.exe
+C:\Users\estre\source\repos\Calculadora\Calculadora\bin\Release\netcoreapp3.1\win-x64\Calculadora.deps.json
+C:\Users\estre\source\repos\Calculadora\Calculadora\bin\Release\netcoreapp3.1\win-x64\Calculadora.runtimeconfig.json
+C:\Users\estre\source\repos\Calculadora\Calculadora\bin\Release\netcoreapp3.1\win-x64\Calculadora.runtimeconfig.dev.json
+C:\Users\estre\source\repos\Calculadora\Calculadora\bin\Release\netcoreapp3.1\win-x64\Calculadora.dll
+C:\Users\estre\source\repos\Calculadora\Calculadora\bin\Release\netcoreapp3.1\win-x64\Calculadora.pdb
+C:\Users\estre\source\repos\Calculadora\Calculadora\obj\Release\netcoreapp3.1\win-x64\Calculadora.Form1.resources
+C:\Users\estre\source\repos\Calculadora\Calculadora\obj\Release\netcoreapp3.1\win-x64\Calculadora.csproj.GenerateResource.cache
+C:\Users\estre\source\repos\Calculadora\Calculadora\obj\Release\netcoreapp3.1\win-x64\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estre\source\repos\Calculadora\Calculadora\obj\Release\netcoreapp3.1\win-x64\Calculadora.AssemblyInfoInputs.cache
+C:\Users\estre\source\repos\Calculadora\Calculadora\obj\Release\netcoreapp3.1\win-x64\Calculadora.AssemblyInfo.cs
+C:\Users\estre\source\repos\Calculadora\Calculadora\obj\Release\netcoreapp3.1\win-x64\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\estre\source\repos\Calculadora\Calculadora\obj\Release\netcoreapp3.1\win-x64\Calculadora.dll
+C:\Users\estre\source\repos\Calculadora\Calculadora\obj\Release\netcoreapp3.1\win-x64\Calculadora.pdb
+C:\Users\estre\source\repos\Calculadora\Calculadora\obj\Release\netcoreapp3.1\win-x64\Calculadora.genruntimeconfig.cache
