@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Fliperama desc Ficha/1.0.0": {
+        "runtime": {
+          "Fliperama desc Ficha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fliperama desc Ficha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

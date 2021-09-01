@@ -1,0 +1,16 @@
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\bin\Release\netcoreapp3.1\Fliperama desc Ficha.exe
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\bin\Release\netcoreapp3.1\Fliperama desc Ficha.deps.json
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\bin\Release\netcoreapp3.1\Fliperama desc Ficha.runtimeconfig.json
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\bin\Release\netcoreapp3.1\Fliperama desc Ficha.runtimeconfig.dev.json
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\bin\Release\netcoreapp3.1\Fliperama desc Ficha.dll
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\bin\Release\netcoreapp3.1\Fliperama desc Ficha.pdb
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\obj\Release\netcoreapp3.1\Fliperama desc Ficha.csproj.AssemblyReference.cache
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\obj\Release\netcoreapp3.1\Fliperama_desc_Ficha.Form1.resources
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\obj\Release\netcoreapp3.1\Fliperama desc Ficha.csproj.GenerateResource.cache
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\obj\Release\netcoreapp3.1\Fliperama desc Ficha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\obj\Release\netcoreapp3.1\Fliperama desc Ficha.AssemblyInfoInputs.cache
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\obj\Release\netcoreapp3.1\Fliperama desc Ficha.AssemblyInfo.cs
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\obj\Release\netcoreapp3.1\Fliperama desc Ficha.csproj.CoreCompileInputs.cache
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\obj\Release\netcoreapp3.1\Fliperama desc Ficha.dll
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\obj\Release\netcoreapp3.1\Fliperama desc Ficha.pdb
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\obj\Release\netcoreapp3.1\Fliperama desc Ficha.genruntimeconfig.cache

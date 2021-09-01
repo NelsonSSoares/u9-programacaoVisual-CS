@@ -1,0 +1,5 @@
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\bin\publish\Fliperama desc Ficha.exe
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\bin\publish\Fliperama desc Ficha.dll
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\bin\publish\Fliperama desc Ficha.deps.json
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\bin\publish\Fliperama desc Ficha.runtimeconfig.json
+C:\Users\estre\source\repos\Fliperama desc Ficha\Fliperama desc Ficha\bin\publish\Fliperama desc Ficha.pdb
