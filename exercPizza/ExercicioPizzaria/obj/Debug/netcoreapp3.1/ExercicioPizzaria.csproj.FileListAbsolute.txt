@@ -1,0 +1,16 @@
+C:\Users\estre\source\repos\ExercicioPizzaria\ExercicioPizzaria\bin\Debug\netcoreapp3.1\ExercicioPizzaria.exe
+C:\Users\estre\source\repos\ExercicioPizzaria\ExercicioPizzaria\bin\Debug\netcoreapp3.1\ExercicioPizzaria.deps.json
+C:\Users\estre\source\repos\ExercicioPizzaria\ExercicioPizzaria\bin\Debug\netcoreapp3.1\ExercicioPizzaria.runtimeconfig.json
+C:\Users\estre\source\repos\ExercicioPizzaria\ExercicioPizzaria\bin\Debug\netcoreapp3.1\ExercicioPizzaria.runtimeconfig.dev.json
+C:\Users\estre\source\repos\ExercicioPizzaria\ExercicioPizzaria\bin\Debug\netcoreapp3.1\ExercicioPizzaria.dll
+C:\Users\estre\source\repos\ExercicioPizzaria\ExercicioPizzaria\bin\Debug\netcoreapp3.1\ExercicioPizzaria.pdb
+C:\Users\estre\source\repos\ExercicioPizzaria\ExercicioPizzaria\obj\Debug\netcoreapp3.1\ExercicioPizzaria.Form1.resources
+C:\Users\estre\source\repos\ExercicioPizzaria\ExercicioPizzaria\obj\Debug\netcoreapp3.1\ExercicioPizzaria.csproj.GenerateResource.cache
+C:\Users\estre\source\repos\ExercicioPizzaria\ExercicioPizzaria\obj\Debug\netcoreapp3.1\ExercicioPizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estre\source\repos\ExercicioPizzaria\ExercicioPizzaria\obj\Debug\netcoreapp3.1\ExercicioPizzaria.AssemblyInfoInputs.cache
+C:\Users\estre\source\repos\ExercicioPizzaria\ExercicioPizzaria\obj\Debug\netcoreapp3.1\ExercicioPizzaria.AssemblyInfo.cs
+C:\Users\estre\source\repos\ExercicioPizzaria\ExercicioPizzaria\obj\Debug\netcoreapp3.1\ExercicioPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\estre\source\repos\ExercicioPizzaria\ExercicioPizzaria\obj\Debug\netcoreapp3.1\ExercicioPizzaria.dll
+C:\Users\estre\source\repos\ExercicioPizzaria\ExercicioPizzaria\obj\Debug\netcoreapp3.1\ExercicioPizzaria.pdb
+C:\Users\estre\source\repos\ExercicioPizzaria\ExercicioPizzaria\obj\Debug\netcoreapp3.1\ExercicioPizzaria.genruntimeconfig.cache
+C:\Users\estre\source\repos\ExercicioPizzaria\ExercicioPizzaria\obj\Debug\netcoreapp3.1\ExercicioPizzaria.csproj.AssemblyReference.cache
