@@ -1,0 +1,5 @@
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\bin\Release\netcoreapp3.1\publish\AulaSalario.exe
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\bin\Release\netcoreapp3.1\publish\AulaSalario.dll
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\bin\Release\netcoreapp3.1\publish\AulaSalario.deps.json
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\bin\Release\netcoreapp3.1\publish\AulaSalario.runtimeconfig.json
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\bin\Release\netcoreapp3.1\publish\AulaSalario.pdb

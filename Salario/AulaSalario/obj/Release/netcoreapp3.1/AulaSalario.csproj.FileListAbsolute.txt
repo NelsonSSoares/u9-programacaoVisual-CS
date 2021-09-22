@@ -1,0 +1,16 @@
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\bin\Release\netcoreapp3.1\AulaSalario.exe
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\bin\Release\netcoreapp3.1\AulaSalario.deps.json
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\bin\Release\netcoreapp3.1\AulaSalario.runtimeconfig.json
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\bin\Release\netcoreapp3.1\AulaSalario.runtimeconfig.dev.json
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\bin\Release\netcoreapp3.1\AulaSalario.dll
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\bin\Release\netcoreapp3.1\AulaSalario.pdb
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\obj\Release\netcoreapp3.1\AulaSalario.csproj.AssemblyReference.cache
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\obj\Release\netcoreapp3.1\AulaSalario.Form1.resources
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\obj\Release\netcoreapp3.1\AulaSalario.csproj.GenerateResource.cache
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\obj\Release\netcoreapp3.1\AulaSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\obj\Release\netcoreapp3.1\AulaSalario.AssemblyInfoInputs.cache
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\obj\Release\netcoreapp3.1\AulaSalario.AssemblyInfo.cs
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\obj\Release\netcoreapp3.1\AulaSalario.csproj.CoreCompileInputs.cache
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\obj\Release\netcoreapp3.1\AulaSalario.dll
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\obj\Release\netcoreapp3.1\AulaSalario.pdb
+C:\Users\estre\source\repos\AulaSalario\AulaSalario\obj\Release\netcoreapp3.1\AulaSalario.genruntimeconfig.cache
