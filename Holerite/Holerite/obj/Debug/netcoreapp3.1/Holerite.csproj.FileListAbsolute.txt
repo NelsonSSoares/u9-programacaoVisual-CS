@@ -1,0 +1,16 @@
+C:\Users\estre\source\repos\Holerite\Holerite\obj\Debug\netcoreapp3.1\Holerite.csproj.AssemblyReference.cache
+C:\Users\estre\source\repos\Holerite\Holerite\obj\Debug\netcoreapp3.1\Holerite.Form1.resources
+C:\Users\estre\source\repos\Holerite\Holerite\obj\Debug\netcoreapp3.1\Holerite.csproj.GenerateResource.cache
+C:\Users\estre\source\repos\Holerite\Holerite\obj\Debug\netcoreapp3.1\Holerite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estre\source\repos\Holerite\Holerite\obj\Debug\netcoreapp3.1\Holerite.AssemblyInfoInputs.cache
+C:\Users\estre\source\repos\Holerite\Holerite\obj\Debug\netcoreapp3.1\Holerite.AssemblyInfo.cs
+C:\Users\estre\source\repos\Holerite\Holerite\obj\Debug\netcoreapp3.1\Holerite.csproj.CoreCompileInputs.cache
+C:\Users\estre\source\repos\Holerite\Holerite\bin\Debug\netcoreapp3.1\Holerite.exe
+C:\Users\estre\source\repos\Holerite\Holerite\bin\Debug\netcoreapp3.1\Holerite.deps.json
+C:\Users\estre\source\repos\Holerite\Holerite\bin\Debug\netcoreapp3.1\Holerite.runtimeconfig.json
+C:\Users\estre\source\repos\Holerite\Holerite\bin\Debug\netcoreapp3.1\Holerite.runtimeconfig.dev.json
+C:\Users\estre\source\repos\Holerite\Holerite\bin\Debug\netcoreapp3.1\Holerite.dll
+C:\Users\estre\source\repos\Holerite\Holerite\bin\Debug\netcoreapp3.1\Holerite.pdb
+C:\Users\estre\source\repos\Holerite\Holerite\obj\Debug\netcoreapp3.1\Holerite.dll
+C:\Users\estre\source\repos\Holerite\Holerite\obj\Debug\netcoreapp3.1\Holerite.pdb
+C:\Users\estre\source\repos\Holerite\Holerite\obj\Debug\netcoreapp3.1\Holerite.genruntimeconfig.cache
