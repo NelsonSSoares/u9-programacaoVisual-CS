@@ -1,0 +1,16 @@
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\bin\Release\netcoreapp3.1\NovasPropriedades.exe
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\bin\Release\netcoreapp3.1\NovasPropriedades.deps.json
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\bin\Release\netcoreapp3.1\NovasPropriedades.runtimeconfig.json
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\bin\Release\netcoreapp3.1\NovasPropriedades.runtimeconfig.dev.json
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\bin\Release\netcoreapp3.1\NovasPropriedades.dll
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\bin\Release\netcoreapp3.1\NovasPropriedades.pdb
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\obj\Release\netcoreapp3.1\NovasPropriedades.csproj.AssemblyReference.cache
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\obj\Release\netcoreapp3.1\NovasPropriedades.Form1.resources
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\obj\Release\netcoreapp3.1\NovasPropriedades.csproj.GenerateResource.cache
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\obj\Release\netcoreapp3.1\NovasPropriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\obj\Release\netcoreapp3.1\NovasPropriedades.AssemblyInfoInputs.cache
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\obj\Release\netcoreapp3.1\NovasPropriedades.AssemblyInfo.cs
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\obj\Release\netcoreapp3.1\NovasPropriedades.csproj.CoreCompileInputs.cache
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\obj\Release\netcoreapp3.1\NovasPropriedades.dll
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\obj\Release\netcoreapp3.1\NovasPropriedades.pdb
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\obj\Release\netcoreapp3.1\NovasPropriedades.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\bin\Release\netcoreapp3.1\publish\NovasPropriedades.exe
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\bin\Release\netcoreapp3.1\publish\NovasPropriedades.dll
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\bin\Release\netcoreapp3.1\publish\NovasPropriedades.deps.json
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\bin\Release\netcoreapp3.1\publish\NovasPropriedades.runtimeconfig.json
+C:\Users\estre\source\repos\NovasPropriedades\NovasPropriedades\bin\Release\netcoreapp3.1\publish\NovasPropriedades.pdb
