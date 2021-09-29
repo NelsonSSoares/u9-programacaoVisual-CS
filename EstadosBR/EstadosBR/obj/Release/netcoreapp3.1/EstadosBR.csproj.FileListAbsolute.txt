@@ -1,0 +1,16 @@
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\bin\Release\netcoreapp3.1\EstadosBR.exe
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\bin\Release\netcoreapp3.1\EstadosBR.deps.json
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\bin\Release\netcoreapp3.1\EstadosBR.runtimeconfig.json
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\bin\Release\netcoreapp3.1\EstadosBR.runtimeconfig.dev.json
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\bin\Release\netcoreapp3.1\EstadosBR.dll
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\bin\Release\netcoreapp3.1\EstadosBR.pdb
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\obj\Release\netcoreapp3.1\EstadosBR.csproj.AssemblyReference.cache
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\obj\Release\netcoreapp3.1\EstadosBR.Form1.resources
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\obj\Release\netcoreapp3.1\EstadosBR.csproj.GenerateResource.cache
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\obj\Release\netcoreapp3.1\EstadosBR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\obj\Release\netcoreapp3.1\EstadosBR.AssemblyInfoInputs.cache
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\obj\Release\netcoreapp3.1\EstadosBR.AssemblyInfo.cs
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\obj\Release\netcoreapp3.1\EstadosBR.csproj.CoreCompileInputs.cache
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\obj\Release\netcoreapp3.1\EstadosBR.dll
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\obj\Release\netcoreapp3.1\EstadosBR.pdb
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\obj\Release\netcoreapp3.1\EstadosBR.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\bin\Release\netcoreapp3.1\publish\EstadosBR.exe
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\bin\Release\netcoreapp3.1\publish\EstadosBR.dll
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\bin\Release\netcoreapp3.1\publish\EstadosBR.deps.json
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\bin\Release\netcoreapp3.1\publish\EstadosBR.runtimeconfig.json
+C:\Users\estre\source\repos\EstadosBR\EstadosBR\bin\Release\netcoreapp3.1\publish\EstadosBR.pdb
