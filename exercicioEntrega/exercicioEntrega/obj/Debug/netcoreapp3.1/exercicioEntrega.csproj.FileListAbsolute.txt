@@ -1,0 +1,16 @@
+C:\Users\estre\source\repos\exercicioEntrega\exercicioEntrega\obj\Debug\netcoreapp3.1\exercicioEntrega.csproj.AssemblyReference.cache
+C:\Users\estre\source\repos\exercicioEntrega\exercicioEntrega\obj\Debug\netcoreapp3.1\exercicioEntrega.Form1.resources
+C:\Users\estre\source\repos\exercicioEntrega\exercicioEntrega\obj\Debug\netcoreapp3.1\exercicioEntrega.csproj.GenerateResource.cache
+C:\Users\estre\source\repos\exercicioEntrega\exercicioEntrega\obj\Debug\netcoreapp3.1\exercicioEntrega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estre\source\repos\exercicioEntrega\exercicioEntrega\obj\Debug\netcoreapp3.1\exercicioEntrega.AssemblyInfoInputs.cache
+C:\Users\estre\source\repos\exercicioEntrega\exercicioEntrega\obj\Debug\netcoreapp3.1\exercicioEntrega.AssemblyInfo.cs
+C:\Users\estre\source\repos\exercicioEntrega\exercicioEntrega\obj\Debug\netcoreapp3.1\exercicioEntrega.csproj.CoreCompileInputs.cache
+C:\Users\estre\source\repos\exercicioEntrega\exercicioEntrega\bin\Debug\netcoreapp3.1\exercicioEntrega.exe
+C:\Users\estre\source\repos\exercicioEntrega\exercicioEntrega\bin\Debug\netcoreapp3.1\exercicioEntrega.deps.json
+C:\Users\estre\source\repos\exercicioEntrega\exercicioEntrega\bin\Debug\netcoreapp3.1\exercicioEntrega.runtimeconfig.json
+C:\Users\estre\source\repos\exercicioEntrega\exercicioEntrega\bin\Debug\netcoreapp3.1\exercicioEntrega.runtimeconfig.dev.json
+C:\Users\estre\source\repos\exercicioEntrega\exercicioEntrega\bin\Debug\netcoreapp3.1\exercicioEntrega.dll
+C:\Users\estre\source\repos\exercicioEntrega\exercicioEntrega\bin\Debug\netcoreapp3.1\exercicioEntrega.pdb
+C:\Users\estre\source\repos\exercicioEntrega\exercicioEntrega\obj\Debug\netcoreapp3.1\exercicioEntrega.dll
+C:\Users\estre\source\repos\exercicioEntrega\exercicioEntrega\obj\Debug\netcoreapp3.1\exercicioEntrega.pdb
+C:\Users\estre\source\repos\exercicioEntrega\exercicioEntrega\obj\Debug\netcoreapp3.1\exercicioEntrega.genruntimeconfig.cache
