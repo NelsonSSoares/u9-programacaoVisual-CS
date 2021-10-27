@@ -1,0 +1,16 @@
+C:\Users\estre\source\repos\formula1\formula1\bin\Debug\netcoreapp3.1\formula1.exe
+C:\Users\estre\source\repos\formula1\formula1\bin\Debug\netcoreapp3.1\formula1.deps.json
+C:\Users\estre\source\repos\formula1\formula1\bin\Debug\netcoreapp3.1\formula1.runtimeconfig.json
+C:\Users\estre\source\repos\formula1\formula1\bin\Debug\netcoreapp3.1\formula1.runtimeconfig.dev.json
+C:\Users\estre\source\repos\formula1\formula1\bin\Debug\netcoreapp3.1\formula1.dll
+C:\Users\estre\source\repos\formula1\formula1\bin\Debug\netcoreapp3.1\formula1.pdb
+C:\Users\estre\source\repos\formula1\formula1\obj\Debug\netcoreapp3.1\formula1.csproj.AssemblyReference.cache
+C:\Users\estre\source\repos\formula1\formula1\obj\Debug\netcoreapp3.1\formula1.Form1.resources
+C:\Users\estre\source\repos\formula1\formula1\obj\Debug\netcoreapp3.1\formula1.csproj.GenerateResource.cache
+C:\Users\estre\source\repos\formula1\formula1\obj\Debug\netcoreapp3.1\formula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estre\source\repos\formula1\formula1\obj\Debug\netcoreapp3.1\formula1.AssemblyInfoInputs.cache
+C:\Users\estre\source\repos\formula1\formula1\obj\Debug\netcoreapp3.1\formula1.AssemblyInfo.cs
+C:\Users\estre\source\repos\formula1\formula1\obj\Debug\netcoreapp3.1\formula1.csproj.CoreCompileInputs.cache
+C:\Users\estre\source\repos\formula1\formula1\obj\Debug\netcoreapp3.1\formula1.dll
+C:\Users\estre\source\repos\formula1\formula1\obj\Debug\netcoreapp3.1\formula1.pdb
+C:\Users\estre\source\repos\formula1\formula1\obj\Debug\netcoreapp3.1\formula1.genruntimeconfig.cache
