@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tabuadaFatorial/1.0.0": {
+        "runtime": {
+          "tabuadaFatorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tabuadaFatorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
